@@ -34,7 +34,8 @@ STEP-5: Display the obtained cipher text.
 
 
 
-Program:
+
+## Program:
 ```
 
 #include <stdio.h>
@@ -161,7 +162,10 @@ int main() {
 
 
 
-Output:
+## Output:
 
 
 <img width="357" height="182" alt="image" src="https://github.com/user-attachments/assets/5b0e270f-4b60-4e6c-8f42-239bc27f7104" />
+
+## Result
+The Playfair Cipher program was executed successfully. The plaintext was encrypted into ciphertext using the given key.
